@@ -1,0 +1,26 @@
+{
+  "name": "gilded-rose-javascript",
+  "version": "1.0.0",
+  "description": "Gilded rose kata",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "mocha test/*.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmstead/gilded-rose-javascript.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cmstead/gilded-rose-javascript/issues"
+  },
+  "homepage": "https://github.com/cmstead/gilded-rose-javascript#readme",
+  "dependencies": {
+    "approvals": "^3.0.5",
+    "mocha": "^9.1.3"
+  }
+}

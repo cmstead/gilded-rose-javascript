@@ -1,0 +1,32 @@
+[
+  {
+    "name": "+5 Dexterity Vest",
+    "quantity": 19,
+    "sell_in": 9
+  },
+  {
+    "name": "Aged Brie",
+    "quantity": 1,
+    "sell_in": 1
+  },
+  {
+    "name": "Elixir of the Mongoose",
+    "quantity": 6,
+    "sell_in": 4
+  },
+  {
+    "name": "Sulfuras, Hand of Ragnaros",
+    "quantity": 80,
+    "sell_in": 0
+  },
+  {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quantity": 21,
+    "sell_in": 14
+  },
+  {
+    "name": "Conjured Mana Cake",
+    "quantity": 5,
+    "sell_in": 2
+  }
+]
